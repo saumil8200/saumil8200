@@ -1,4 +1,4 @@
-Hi I am Saumil Passionate about webdevelopment, Python and UI/UX, I also like to explore new technologies, gadgets and other stuff. 📱, 💻 , 🎮 , 🎧 
+Hi I am Saumil Passionate about Webdevelopment, Python, Linux, Gaming, UI/UX  📱, 💻 , 🎮 , 🎧 
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=saumil8200&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
