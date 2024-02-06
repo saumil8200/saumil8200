@@ -5,10 +5,10 @@ Hi I am Saumil Passionate about Webdevelopment, Python, Linux, Gaming, UI/UX  ðŸ
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saumil8200&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=saumil8200&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=saumil8200&repo=pixel-weather">
-</p> -->
+</p>
 
 
 <!--
