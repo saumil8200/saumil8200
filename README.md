@@ -3,6 +3,11 @@
 I'm **Saumil Shah**, a **Software Engineer** , passionate about Web development, Python, Linux, Gaming, UI/UX 📱, 💻 , 🎮 , 🎧
 <!-- from **India** <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="18" /> .<br> -->
 
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=saumil8200&layout=compact&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saumil8200&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=">
+</p>
+
 <p aligin="left">
   <a href="https://saumil8200.github.io/portfolio/" target="_blank">My Website</a> &nbsp;
   <a href="https://in.linkedin.com/in/saumil8200" target="_blank">LinkedIn</a> &nbsp;
