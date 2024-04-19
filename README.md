@@ -14,10 +14,7 @@ I'm **Saumil Shah**, a **Software Engineer** , passionate about Web development,
   </a> &nbsp; -->
 </p>
 
-<p align="left">
-  <img src ="https://github-readme-stats.vercel.app/api?username=saumil8200&layout=compact&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=saumil8200&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=">
-</p>
+
 
 <!--
 **Saumil8200/saumil8200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
